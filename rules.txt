@@ -18,3 +18,6 @@ UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/GCloudConf.in
 UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/DataPool
 UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PreloadInfo.txt
 UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReport
+UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/TData
+UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferE_Raw
+UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImgLogs
