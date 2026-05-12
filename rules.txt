@@ -1,0 +1,5 @@
+Logs
+Crashes
+StatEventReport
+Paks
+ProgramBinaryCache
